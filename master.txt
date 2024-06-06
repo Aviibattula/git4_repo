@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file1
+=======
+this is the file1
+>>>>>>> private
